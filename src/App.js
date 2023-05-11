@@ -15,7 +15,6 @@ function App() {
 
       <div className='right'>
         <ScrollView></ScrollView>
-
       </div>
     </div>
   );

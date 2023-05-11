@@ -71,10 +71,12 @@ const messages = [
 const StyledFab = styled(Fab)({
   position: 'absolute',
   zIndex: 1,
-  top: -30,
-  left: 0,
+  top: -50,
+  left: 500,
   right: 0,
   margin: '0 auto',
+  width: 40, // Set the desired width
+  height: 40, // Set the desired height
 });
 
 export default function BottomAppBar() {
@@ -110,7 +112,7 @@ export default function BottomAppBar() {
           ))}
         </List>
       </Paper>
-      <AppBar position="static" color="primary" sx={{ top: 'auto', bottom: 0 }}>
+      <AppBar position="sticky" color="primary" sx={{ top: 'auto', bottom: 0 }}>
         <Toolbar>
           <IconButton color="inherit" aria-label="open drawer">
             <MenuIcon />
