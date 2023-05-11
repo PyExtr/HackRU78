@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  display: flex;
 }
 
 .App-logo {
@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #8fa2c8;
+  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -28,25 +28,6 @@
   color: #61dafb;
 }
 
-.app-left {
-  position: absolute;
-  left: 0;
-}
-
-.ScrollView {
-  max-height: 730px; /* Set a maximum height for the scrollable area */
-  max-width: 350px;
-  overflow-y: auto; /* Enable vertical scrolling if content exceeds the height */
-}
-.Button {
-  color: black;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Left{
+  width:33%
 }
