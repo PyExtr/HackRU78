@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #8fa2c8;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -26,6 +26,20 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.app-left {
+  position: absolute;
+  left: 0;
+}
+
+.ScrollView {
+  max-height: 730px; /* Set a maximum height for the scrollable area */
+  max-width: 350px;
+  overflow-y: auto; /* Enable vertical scrolling if content exceeds the height */
+}
+.Button {
+  color: black;
 }
 
 @keyframes App-logo-spin {
