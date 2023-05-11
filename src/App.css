@@ -1,6 +1,15 @@
 .App {
   display: flex;
 }
+.suggestion{
+  display: flex;
+}
+/* Dark mode styles */
+.dark-mode {
+  /* Add your dark mode styles here */
+  background-color: black;
+  color: white;
+}
 
 .App-logo {
   height: 40vmin;

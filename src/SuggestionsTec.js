@@ -4,7 +4,7 @@ const ScrollView = () => {
   return (
     <div
       style={{
-        width: '1150px',
+        width: '575px',
         height: '400px',
         overflow: 'auto',
         border: '1px solid #ccc',
