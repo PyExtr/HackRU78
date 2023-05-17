@@ -1,70 +1,21 @@
-# Getting Started with Create React App
+# AI-Enhanced Customer Issue Summarizer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ConciseView is a sophisticated web-based customer support interface designed to enhance the agent's user experience and efficiency. By utilizing AI to summarize customer issues, ConciseView aims to significantly reduce resolution times and improve overall customer satisfaction.
+Technologies
 
-## Available Scripts
+**React and Material UI**: These technologies have been employed to craft an interactive and user-friendly front-end interface.
+**RestfulAPI**: This technology is used for seamless server interaction and data exchange.
+**Flask**: This micro web framework powers the robust back-end of our application.
+**MySQL**: MySQL has been implemented for reliable database management.
+**OpenAI** API: This powerful AI tool is integrated to summarize customer issues, providing agents with a concise overview of the customer's problem.
 
-In the project directory, you can run:
+# Features
 
-### `npm start`
+AI-Powered Issue Summarizer: ConciseView's main feature is its AI-powered issue summarizer, which provides agents with a succinct overview of the customer's issue, streamlining the resolution process.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Interactive Interface: The application features an interactive and intuitive interface built with React and Material UI, enhancing the agent's user experience.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Robust Backend: With Flask and MySQL, the system ensures high performance and reliability, efficiently managing and storing data.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Effective Data Exchange: The system's RestfulAPIs have been designed following best practices to interact effectively with the server and exchange data.
+Current Status
