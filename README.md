@@ -18,4 +18,6 @@ Interactive Interface: The application features an interactive and intuitive int
 Robust Backend: With Flask and MySQL, the system ensures high performance and reliability, efficiently managing and storing data.
 
 Effective Data Exchange: The system's RestfulAPIs have been designed following best practices to interact effectively with the server and exchange data.
-Current Status
+
+
+![Demo](demo.gif)
