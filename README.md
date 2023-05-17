@@ -4,9 +4,13 @@ Sophisticated web-based customer support interface designed to enhance the agent
 # Technologies
 
 **React and Material UI**: These technologies have been employed to craft an interactive and user-friendly front-end interface.
+
 **RestfulAPI**: This technology is used for seamless server interaction and data exchange.
+
 **Flask**: This micro web framework powers the robust back-end of our application.
+
 **MySQL**: MySQL has been implemented for reliable database management.
+
 **OpenAI** API: This powerful AI tool is integrated to summarize customer issues, providing agents with a concise overview of the customer's problem.
 # Features
 
