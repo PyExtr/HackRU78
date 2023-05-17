@@ -1,6 +1,6 @@
 # AI-Enhanced Customer Issue Summarizer
 
-ConciseView is a sophisticated web-based customer support interface designed to enhance the agent's user experience and efficiency. By utilizing AI to summarize customer issues, ConciseView aims to significantly reduce resolution times and improve overall customer satisfaction.
+Sophisticated web-based customer support interface designed to enhance the agent's user experience and efficiency. By utilizing AI to summarize customer issues, ConciseView aims to significantly reduce resolution times and improve overall customer satisfaction.
 Technologies
 
 **React and Material UI**: These technologies have been employed to craft an interactive and user-friendly front-end interface.
@@ -11,7 +11,7 @@ Technologies
 
 # Features
 
-AI-Powered Issue Summarizer: ConciseView's main feature is its AI-powered issue summarizer, which provides agents with a succinct overview of the customer's issue, streamlining the resolution process.
+AI-Powered Issue Summarizer: the main feature is its AI-powered issue summarizer, which provides agents with a succinct overview of the customer's issue, streamlining the resolution process.
 
 Interactive Interface: The application features an interactive and intuitive interface built with React and Material UI, enhancing the agent's user experience.
 
